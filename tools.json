@@ -1,0 +1,50 @@
+[
+  {
+    "icon": "list-outline",
+    "name": "Setup",
+    "description": "Set up the TindaTap app so it is ready for your store.",
+    "link": "https://tindatap.com/setup"
+  },
+  {
+    "icon": "cash-outline",
+    "name": "Presyo",
+    "description": "Check the SRP of certain items in a sari-sari store.",
+    "link": "https://tindatap.com/presyo"
+  },
+  {
+    "icon": "barcode-outline",
+    "name": "Barcode",
+    "description": "Generate a barcode for items in the store that do not have one.",
+    "link": "https://tindatap.com/barcode"
+  },
+  {
+    "icon": "pricetag-outline",
+    "name": "Sell Price",
+    "description": "Generate a suggested selling price for an item.",
+    "link": "https://www.tindatap.com/sellprice/"
+  },
+  {
+    "icon": "calculator-outline",
+    "name": "Coster",
+    "description": "Make recipes like lumpia and find the right price so you don’t lose money.",
+    "link": "https://www.tindatap.com/coster/"
+  },
+  {
+    "icon": "create-outline",
+    "name": "Signs",
+    "description": "Download ready-made signs you can post in your physical store, such as 'Ice for Sale'.",
+    "link": "https://www.tindatap.com/signs/"
+  },
+  {
+    "icon": "star-outline",
+    "name": "Rate TindaTap",
+    "description": "Leave a review for the app on the Google Play Store.",
+    "link": "https://play.google.com/store/apps/details?id=com.abakus.TindaTap"
+  },
+  {
+    "icon": "globe-outline",
+    "name": "Visit Our Page",
+    "description": "Open our Facebook page for updates and news.",
+    "link": "https://www.facebook.com/share/19GqbgXjYo/"
+  }
+]
