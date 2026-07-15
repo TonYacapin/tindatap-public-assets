@@ -34,17 +34,5 @@
     "name": "Signs",
     "description": "Download ready-made signs you can post in your physical store, such as 'Ice for Sale'.",
     "link": "https://www.tindatap.com/signs/"
-  },
-  {
-    "icon": "star-outline",
-    "name": "Rate TindaTap",
-    "description": "Leave a review for the app on the Google Play Store.",
-    "link": "https://play.google.com/store/apps/details?id=com.abakus.TindaTap"
-  },
-  {
-    "icon": "globe-outline",
-    "name": "Visit Our Page",
-    "description": "Open our Facebook page for updates and news.",
-    "link": "https://www.facebook.com/share/19GqbgXjYo/"
   }
 ]
