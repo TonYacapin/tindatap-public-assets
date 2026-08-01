@@ -30,6 +30,12 @@
     "link": "https://www.tindatap.com/coster/"
   },
   {
+    "icon": "scale-outline",
+    "name": "Per Kilo",
+    "description": "Calculate prices for items sold by weight or repacked tingi goods with a clear profit breakdown.",
+    "link": "https://www.tindatap.com/perkilo/"
+  },
+  {
     "icon": "create-outline",
     "name": "Signs",
     "description": "Download ready-made signs you can post in your physical store, such as 'Ice for Sale'.",
